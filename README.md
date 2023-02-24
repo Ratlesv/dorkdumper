@@ -15,7 +15,7 @@ To run, use the `python` command like so: `python dork_dumper.py`
 
 Note: The parameter syntax is still rudimentary, and will be updated. As of now, these are the only two arguments, and cannot be placed out of order, and therefore time cannot be specified without specifying the filepath, even if you are intending to use the defaults. 
 <h2> Dependencies </h2> 
-This script uses the [googlesearch-python](https://pypi.org/project/googlesearch-python/) and [duckduckgo-search](https://pypi.org/project/duckduckgo-search/) python modules.
+This script uses the googlesearch-python and duckduckgo-search python modules.
 <h2> File formatting
 
 <h3>Input files: </h3> 
