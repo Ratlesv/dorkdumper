@@ -43,6 +43,8 @@ https://url2
 https://url3
 https://url4
 ```
+<h2> A note on CAPTCHAs </h2>
+Sometimes, a captcha will still be triggered, and the duckduckgo module is imported as well to prevent this, but even that isn't foolproof, so be sure to take your time.
 
 
  
